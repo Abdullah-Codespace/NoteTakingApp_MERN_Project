@@ -36,7 +36,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build": "npm install --prefix Backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "build": "npm install --prefix Backend && npm install --prefix Frontend && npm run build --prefix Frontend",
     "start": "npm run start --prefix backend"
   },
   "repository": {
